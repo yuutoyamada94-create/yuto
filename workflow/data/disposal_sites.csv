@@ -1,0 +1,3 @@
+disposal_id,name,own,price_soil1,price_soil2,price_soil3,price_soil4,capacity_m3,used_m3_before,open_hour,close_hour
+DS1,西八朔処分場（自社）,yes,3000,3200,3800,5500,60000,41800,7,17
+DS2,外部処分場X,no,3500,3800,4200,6000,,,8,17

@@ -1,0 +1,5 @@
+month,client,invoice_format,payment_terms_days,site,contract,basis,trips,truck_days,m3,base_amount,waiting_hours,waiting_fee,disposal_passthrough,total,needs_human_check
+2026-09-28〜2026-10-02,大和ホーム 横浜支店,yamato_xlsx,60,港北A現場,per_truck_day,"車建て 5台日 × 70,000円",20,5,110.0,350000,0.0,0,0,350000,yes
+2026-09-28〜2026-10-02,大和ホーム 川崎支店,yamato_xlsx,60,鶴見B現場,per_m3,"立米建て 159.5m3 × 4,500円",29,10,159.5,717750,13.5,67500,0,785250,yes
+2026-09-28〜2026-10-02,鈴木基礎工業,plain,30,川崎C現場,per_m3,"立米建て 82.5m3 × 4,200円",15,5,82.5,346500,0.0,0,323400,669900,yes
+2026-09-28〜2026-10-02,緑産業（解体）,plain,30,青葉D解体,per_truck_day,"車建て 10台日 × 20,000円",41,10,82.0,200000,0.0,0,0,200000,yes

@@ -1,0 +1,5 @@
+client_id,name,branch,invoice_format,closing_day,payment_terms_days
+C1,大和ホーム,横浜支店,yamato_xlsx,末日,60
+C2,大和ホーム,川崎支店,yamato_xlsx,末日,60
+C3,鈴木基礎工業,,plain,末日,30
+C4,緑産業（解体）,,plain,末日,30

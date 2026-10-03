@@ -1,0 +1,5 @@
+site_id,client_id,name,contract_type,unit_price,waiting_free_min,waiting_fee_per_hour,default_disposal,note
+S1,C1,港北A現場,per_truck_day,70000,60,5000,DS1,車建て。回転が多いほど元請けが得
+S2,C2,鶴見B現場,per_m3,4500,30,5000,DS1,立米建て。道が狭く積込待ちが出る
+S3,C3,川崎C現場,per_m3,4200,30,5000,DS2,外部処分場。往復が長い
+S4,C4,青葉D解体,per_truck_day,20000,60,3000,DS1,4t。がれき混入注意

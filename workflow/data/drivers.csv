@@ -1,0 +1,7 @@
+driver_id,name,day_rate,line_id
+D1,山田,15000,line_yamada
+D2,佐藤,15000,line_sato
+D3,鈴木,15000,line_suzuki
+D4,高橋,15000,line_takahashi
+D5,田中,13000,line_tanaka
+D6,伊藤,13000,line_ito
